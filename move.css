@@ -1,0 +1,9 @@
+#animate-area	{
+	width: 560px;
+	height: 400px;
+	background-image: url("../../images/bg.jpg");
+	background-position: 80px 12px;
+	background-repeat: repeat-x;
+
+	animation: animatedBackground 40s linear infinite;
+}
